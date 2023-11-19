@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>Заголовок</h1>
+    <h1>Обери зображення</h1>
     <MatchList :data-list="matchSet" @success="onSuccess"  @wrong="onWrong" />
   </main>
 </template>
