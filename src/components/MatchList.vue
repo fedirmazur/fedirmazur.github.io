@@ -121,7 +121,7 @@ export default {
 
 <style lang="scss" scoped>
 .image-box {
-  height: 125px;
+  height: 120px;
 
   img {
     width: 100%;

@@ -1,8 +1,11 @@
-export const MATCH_QUANTITY = 4;
+export const MATCH_QUANTITY = 8;
 export const MATCH_LIST = [
-  {image: 'jeep-dog-june-huff.jpg', description: 'Джип'},
-  {image: 'motorcycle-geb19ae1e4_1920.jpg', description: 'motorcycle'},
-  {image: 'photo_2023-07-29_14-21-53.jpg', description: 'tractor'},
-  {image: 'ship-ge48ba210a_1920.jpg', description: 'ship'},
-  {image: 'star-wars-png.png', description: 'star-wars'},
+  {image: 'mittens-blue.jpg', description: 'РУКАВИЧКИ'},
+  {image: 'dress-green.jpg', description: 'СУКНЯ'},
+  {image: 'socks-red.jpg', description: 'ШКАРПЕТКИ'},
+  {image: 'hat-yellow.jpg', description: 'ШАПКА'},
+  {image: 'tshirt-black.jpg', description: 'ФУТБОЛКА'},
+  {image: 'jeans-blue.jpg', description: 'ДЖИНСИ'},
+  {image:'jacket-doublecolor.jpg', description:'КУРТКА'},
+  {image:'underwear-blue.jpg', description:'ТРУСИ'}
 ]

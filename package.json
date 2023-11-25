@@ -1,6 +1,7 @@
 {
-  "name": "fedir",
-  "version": "0.0.0",
+  "homepage" : "https://fedirmazur.gitgub.io/my_web_app",
+  "name": "my_web_app",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "vite",
