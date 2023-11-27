@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as a,c,a as n,w as s,b as r,d as _}from"./index-d67e5c9a.js";const l={},d=r("h1",null,"Ти молодець!",-1);function u(i,f){const e=o("router-link");return a(),c("main",null,[d,n(e,{to:"/"},{default:s(()=>[_("Давай ще!")]),_:1})])}const p=t(l,[["render",u]]);export{p as default};
