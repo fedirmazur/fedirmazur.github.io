@@ -1,6 +1,6 @@
 {
-  "homepage" : "https://fedirmazur.gitgub.io/fedirmazur.gitgub.io",
-  "name": "my_web_app",
+  "homepage" : "https://fedirmazur.gitgub.io/",
+  "name": "fedirmazur.gitgub.io",
   "version": "0.1.0",
   "private": true,
   "scripts": {
