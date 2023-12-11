@@ -1,4 +1,4 @@
-export const MATCH_QUANTITY = 5;
+export const MATCH_QUANTITY = 3;
 export const MATCH_LIST = [
   {image: 'mittens-blue.jpg', description: 'РУКАВИЧКИ'},
   {image: 'dress-green.jpg', description: 'СУКНЯ'},
