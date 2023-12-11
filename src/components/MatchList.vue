@@ -113,7 +113,7 @@ export default {
       const index = e.target.dataset?.index;
       if (index) this.dragOverIndex = index.toString();
     },
-    dragleave(e) {
+    dragleave() {
       setTimeout(() => {
         this.dragOverIndex = '';
       }, 4)
