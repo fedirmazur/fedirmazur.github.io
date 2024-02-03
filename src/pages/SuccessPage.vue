@@ -2,7 +2,9 @@
   <main>
     <h1>Ти молодець!</h1>
     <router-link to="/">Давай ще!</router-link>
-<!--    <img src="congratulationsSmiley.png" alt="smiley">-->
+   <div>
+    <img width='200' :src="'./imgs/congratulationsSmiley.png'" alt="smiley">
+   </div>
   </main>
 </template>
 
