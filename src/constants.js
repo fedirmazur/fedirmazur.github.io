@@ -8,11 +8,11 @@ export const MATCH_LIST = [
   // {image: 'jeans-blue.jpg', description: 'ДЖИНСИ'},
   // {image:'jacket-doublecolor.jpg', description:'КУРТКА'},
   // {image:'underwear-blue.jpg', description:'ТРУСИ'},
-  {image:'among.jpg', description:'СЕРЕД'},
+  {image:'above.jpg', description:'НАД'},
   {image:'behind.jpg', description:'ЗА'},
   {image:'between.jpg', description:'МІЖ'},
   {image:'in_front_of.jpg', description:'ПЕРЕД'},
-  {image:'inside.jpg', description:'ВСЕРЕДИНІ'},
+  {image:'inside.jpg', description:'В'},
   {image:'on.jpg', description:'НА'},
   {image:'under.jpg', description:'ПІД'},
 ]
