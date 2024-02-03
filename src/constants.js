@@ -11,7 +11,7 @@ export const MATCH_LIST = [
   {image:'among.jpg', description:'СЕРЕД'},
   {image:'behind.jpg', description:'ПОЗА'},
   {image:'between.jpg', description:'ПРОМІЖ'},
-  {image:'in_front.jpg', description:'ПЕРЕД'},
+  {image:'in_front_of.jpg', description:'ПЕРЕД'},
   {image:'inside.jpg', description:'ВСЕРЕДИНІ'},
   {image:'on.jpg', description:'НА'},
   {image:'under.jpg', description:'ПІД'},
