@@ -9,7 +9,7 @@ export const MATCH_LIST = [
   // {image:'jacket-doublecolor.jpg', description:'КУРТКА'},
   // {image:'underwear-blue.jpg', description:'ТРУСИ'},
   {image:'football.jpg', description:'ФУТБОЛ'},
-  {image:'basketball.jpg', description:'БАСКЕТБОЛ'},
+  {image:'baskteball.jpg', description:'БАСКЕТБОЛ'},
   {image:'hockey.jpg', description:'XОКЕЙ'},
   {image:'volleyball.jpg', description:'ВОЛЛЕЙБОЛ'},
   {image:'golf.jpg', description:'ГОЛЬФ'},
